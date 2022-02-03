@@ -9,6 +9,15 @@
     width: 100px;
     float: left;
 }
+button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: var(--purple);
+    color: blue;
+    border-color: var(--purple);
+    font-size: 10px;
+    transition: 200ms transform;
+}
 
 .row {
 
